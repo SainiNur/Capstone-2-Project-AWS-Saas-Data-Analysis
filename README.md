@@ -73,5 +73,8 @@ Based on the analysis that we have done above, we can conclude that:
 * Focus on the top 3 valuable industries in each segment.
 * Focus on the AMEA region with high sales, profit, and sales quantity. SaaS could consider another region like AMER to increase the diversity of customers (without considering political factors).
 
+# Dashboard link
+https://public.tableau.com/views/CapstoneProject2_17308768340240/Segmentdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
   
